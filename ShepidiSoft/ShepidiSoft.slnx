@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/api/">
+    <Project Path="ShepidiSoft.API/ShepidiSoft.API.csproj" />
+  </Folder>
+  <Folder Name="/src/core/">
+    <Project Path="ShepidiSoft.Application/ShepidiSoft.Application.csproj" />
+    <Project Path="ShepidiSoft.Domain/ShepidiSoft.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/infrastructure/">
+    <Project Path="ShepidiSoft.Persistence/ShepidiSoft.Persistence.csproj" />
+  </Folder>
+</Solution>
